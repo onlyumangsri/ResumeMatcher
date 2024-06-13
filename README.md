@@ -51,4 +51,11 @@ A web application that matches job descriptions with resumes to find the most re
 3. Enter the job description and upload the resumes, then click "Match Resume(s)".
 
 ## Project Structure
+resume-matcher/
+│
+├── main.py
+├── requirements.txt
+├── templates/
+│ └── matchresume.html
+└── uploads/
 
